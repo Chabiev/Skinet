@@ -1,0 +1,69 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\API.csproj.EntityFrameworkCore.targets" />
+    <Content Include="obj\API.csproj.nuget.dgspec.json" />
+    <Content Include="obj\API.csproj.nuget.g.props" />
+    <Content Include="obj\API.csproj.nuget.g.targets" />
+    <Content Include="obj\Debug\net7.0\API.AssemblyInfoInputs.cache" />
+    <Content Include="obj\Debug\net7.0\API.assets.cache" />
+    <Content Include="obj\Debug\net7.0\API.csproj.AssemblyReference.cache" />
+    <Content Include="obj\Debug\net7.0\API.csproj.CopyComplete" />
+    <Content Include="obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\net7.0\API.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net7.0\API.dll" />
+    <Content Include="obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig" />
+    <Content Include="obj\Debug\net7.0\API.genruntimeconfig.cache" />
+    <Content Include="obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache" />
+    <Content Include="obj\Debug\net7.0\API.pdb" />
+    <Content Include="obj\Debug\net7.0\apphost.exe" />
+    <Content Include="obj\Debug\net7.0\refint\API.dll" />
+    <Content Include="obj\Debug\net7.0\ref\API.dll" />
+    <Content Include="obj\Debug\net7.0\staticwebassets.build.json" />
+    <Content Include="obj\Debug\net7.0\staticwebassets\msbuild.build.API.props" />
+    <Content Include="obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props" />
+    <Content Include="obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\project.nuget.cache" />
+    <Content Include="obj\project.packagespec.json" />
+    <Content Include="obj\rider.project.model.nuget.info" />
+    <Content Include="obj\rider.project.restore.info" />
+    <Content Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\API.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\API.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs" />
+    <Compile Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+</Project>
