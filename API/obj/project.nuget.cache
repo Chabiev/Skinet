@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "C0nJ/kEj4QQk9tQCyKkfSJraDj8zeiL5Fw8T9g7L0nR+rIlZPDrt6z6kYD9E7UFKJhlcGOiuWs6zcaWzaTsezg==",
+  "dgSpecHash": "XYc5oiOefhP/cuceAcax4V3DXc+QRPBDCxeKsu+G8yS2vkwMlfiQu7AX+PcpRcnT0uo33El4BbBmp1BzN/sotQ==",
   "success": true,
   "projectFilePath": "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.20\\microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.20\\microsoft.data.sqlite.core.7.0.20.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",

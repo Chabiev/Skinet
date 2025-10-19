@@ -71,3 +71,6 @@ D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Core.dll
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Infrastructure.dll
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Infrastructure.pdb
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Core.pdb
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\AutoMapper.dll
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\API.staticwebassets.runtime.json
