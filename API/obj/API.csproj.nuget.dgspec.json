@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj": {}
+    "D:\\Portfolio\\Ecommerce\\skinet\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj": {
+    "D:\\Portfolio\\Ecommerce\\skinet\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj",
+        "projectUniqueName": "D:\\Portfolio\\Ecommerce\\skinet\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj",
+        "projectPath": "D:\\Portfolio\\Ecommerce\\skinet\\api\\API.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Portfolio\\Ecommerce\\skinet\\API\\obj\\",
+        "outputPath": "D:\\Portfolio\\Ecommerce\\skinet\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
