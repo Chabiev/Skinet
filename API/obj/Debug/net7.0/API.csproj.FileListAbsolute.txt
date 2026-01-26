@@ -83,3 +83,6 @@ D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Microsoft.IdentityModel.Proto
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\StackExchange.Redis.dll
+D:\Portfolio\Ecommerce\skinet\API\bin\Debug\net7.0\System.IO.Hashing.dll
