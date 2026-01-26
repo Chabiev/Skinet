@@ -1,1 +1,106 @@
 /* You can add global styles to this file, and also import other style files */
+
+.xng-breadcrumb-root {
+  padding: 8px 16px;
+  display: inline;
+  border-radius: 0;
+}
+
+label.xng-breadcrumb-trail{
+  margin-bottom: 0;
+  color: orange;
+}
+
+.xng-breadcrumb-separator{
+  padding: 0 0;
+}
+
+.loading-text {
+  position: fixed;       // overlay-independent positioning
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #333;
+  font-size: 1.2rem;
+  pointer-events: none;  // allows clicks to pass through
+  z-index: 99999;        // above the ngx-spinner overlay
+  text-align: center;
+}
+
+
+//----------------------------
+//
+///* --- Button colors --- */
+//.btn-primary {
+//  background-color: #8216AB;  /* your primary button color */
+//  border-color: #8216AB;
+//}
+//
+//.btn-primary:hover,
+//.btn-primary:focus {
+//  background-color: #69138A;  /* darker shade on hover */
+//  border-color: #69138A;
+//}
+//
+//.btn-secondary {
+//  background-color: #222222;
+//  border-color: #222222;
+//}
+//
+//.btn-secondary:hover,
+//.btn-secondary:focus {
+//  background-color: #111111;
+//  border-color: #111111;
+//}
+//
+///* --- Body / background --- */
+//body {
+//  background-color: #f0f0f0; /* your preferred page background */
+//}
+//
+///* --- Navbar example --- */
+//.navbar {
+//  background-color: #397D7B;  /* navbar background */
+//}
+//
+//.navbar a {
+//  color: #8216AB;  /* navbar link color */
+//}
+//
+//.navbar a:hover {
+//  color: #69138A;  /* navbar hover color */
+//}
+//
+///* --- Cards example --- */
+//.card {
+//  background-color: #ffffff;  /* card background */
+//  border-color: #dddddd;      /* card border */
+//}
+//
+//
+//
+///* Full color override */
+//.btn-warning {
+//  background-color: #8216AB; /* your new color */
+//  border-color: #8216AB;
+//  color: #fff; /* text color */
+//}
+//
+//.btn-warning:hover,
+//.btn-warning:focus {
+//  background-color: #69138A; /* slightly darker on hover */
+//  border-color: #69138A;
+//}
+//
+///* Outline version */
+//.btn-outline-warning {
+//  color: #8216AB;
+//  border-color: #8216AB;
+//}
+//
+//.btn-outline-warning:hover,
+//.btn-outline-warning:focus {
+//  background-color: #69138A;
+//  color: #fff;
+//  border-color: #69138A;
+//}
