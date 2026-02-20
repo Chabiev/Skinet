@@ -9,3 +9,4 @@ D:\Portfolio\Ecommerce\skinet\Core\obj\Debug\net7.0\Core.dll
 D:\Portfolio\Ecommerce\skinet\Core\obj\Debug\net7.0\refint\Core.dll
 D:\Portfolio\Ecommerce\skinet\Core\obj\Debug\net7.0\Core.pdb
 D:\Portfolio\Ecommerce\skinet\Core\obj\Debug\net7.0\ref\Core.dll
+D:\Portfolio\Ecommerce\skinet\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
