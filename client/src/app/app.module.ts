@@ -12,6 +12,7 @@ import { ErrorInterceptor } from "./core/Interceptors/error.interceptor";
 import {NgxSpinnerModule} from "ngx-spinner";
 import { LoadingInterceptor } from "./core/Interceptors/loading.interceptors";
 import { JwtInterceptor } from "./core/Interceptors/jwt.interceptor";
+import {BreadcrumbModule} from "xng-breadcrumb";
 
 @NgModule({
   declarations: [
@@ -25,7 +26,7 @@ import { JwtInterceptor } from "./core/Interceptors/jwt.interceptor";
     HttpClientModule,
     CoreModule,
     HomeModule,
-    NgxSpinnerModule
+    NgxSpinnerModule,
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
