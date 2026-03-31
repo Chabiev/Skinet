@@ -12,5 +12,5 @@
 /dataSources/
 /dataSources.local.xml
 # Ignore local configuration
+API/appsettings.json
 appsettings.json
-appsettings.Development.json
