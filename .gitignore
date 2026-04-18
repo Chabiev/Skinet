@@ -1,0 +1,52 @@
+# --- IDE & System Files ---
+.idea/
+.vscode/
+*.sln.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.history/*
+.DS_Store
+Thumbs.db
+*.db
+*.rdb
+/shelf/
+/workspace.xml
+/modules.xml
+/.idea.skinet.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# --- .NET / C# Specific ---
+**/[Bb]in/
+**/[Oo]bj/
+**/appsettings.json
+**/appsettings.Development.json
+
+# --- Angular / Frontend Specific ---
+**/node_modules/
+**/dist/
+**/tmp/
+**/out-tsc/
+**/bazel-out/
+**/.angular/cache
+**/.sass-cache/
+**/connect.lock
+**/coverage
+**/libpeerconnection.log
+**/testem.log
+**/typings
+npm-debug.log
+yarn-error.log
+
+# --- Keep VS Code Configs (Optional but helpful) ---
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
