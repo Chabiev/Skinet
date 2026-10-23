@@ -13,7 +13,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.20",
           "Microsoft.IdentityModel.Tokens": "7.7.1",
           "StackExchange.Redis": "2.10.1",
-          "Stripe.net": "51.1.0-beta.1",
+          "Stripe.net": "52.5.0-alpha.5",
           "System.IdentityModel.Tokens.Jwt": "7.7.1"
         },
         "runtime": {
@@ -761,15 +761,15 @@
           }
         }
       },
-      "Stripe.net/51.1.0-beta.1": {
+      "Stripe.net/52.5.0-alpha.5": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
           "System.Configuration.ConfigurationManager": "6.0.0"
         },
         "runtime": {
           "lib/net6.0/Stripe.net.dll": {
-            "assemblyVersion": "51.1.0.0",
-            "fileVersion": "51.1.0.0"
+            "assemblyVersion": "52.5.0.0",
+            "fileVersion": "52.5.0.0"
           }
         }
       },
@@ -1361,12 +1361,12 @@
       "path": "stackexchange.redis/2.10.1",
       "hashPath": "stackexchange.redis.2.10.1.nupkg.sha512"
     },
-    "Stripe.net/51.1.0-beta.1": {
+    "Stripe.net/52.5.0-alpha.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m67tIeTCwuL6FvnSR1FepJT9ib5bhvsiCw5b664SKgBgrWhmKyf9HXvvtG5kRQAM6amg46MNRp6Y1FZWDA2rzQ==",
-      "path": "stripe.net/51.1.0-beta.1",
-      "hashPath": "stripe.net.51.1.0-beta.1.nupkg.sha512"
+      "sha512": "sha512-3e41Dr+rjLhSaO0s+GxElhKTQwTjGS4xBThMAu6NdN9W1fIZeWSTBKQNNlI6Feu1Go+luKH8AsXHe5On0BxG4g==",
+      "path": "stripe.net/52.5.0-alpha.5",
+      "hashPath": "stripe.net.52.5.0-alpha.5.nupkg.sha512"
     },
     "System.Buffers/4.6.0": {
       "type": "package",

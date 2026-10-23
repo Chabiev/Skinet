@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UBhSz3cdVA8=",
+  "dgSpecHash": "k2IE+zA0I7JmgPERfK6q2tK4rKVYNoizvlwNyJc4JK/YS4SMnJ4v+u6UYSWwC0XnxsB0OCfhXGkHIfTp4EeXzw==",
   "success": true,
   "projectFilePath": "D:\\Portfolio\\Ecommerce\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -72,7 +72,7 @@
     "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\stackexchange.redis\\2.10.1\\stackexchange.redis.2.10.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\stripe.net\\51.1.0-beta.1\\stripe.net.51.1.0-beta.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\stripe.net\\52.5.0-alpha.5\\stripe.net.52.5.0-alpha.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

@@ -1250,7 +1250,7 @@
           }
         }
       },
-      "Stripe.net/51.1.0-beta.1": {
+      "Stripe.net/52.5.0-alpha.5": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
@@ -1706,7 +1706,7 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.20",
           "Microsoft.IdentityModel.Tokens": "7.7.1",
           "StackExchange.Redis": "2.10.1",
-          "Stripe.net": "51.1.0-beta.1",
+          "Stripe.net": "52.5.0-alpha.5",
           "System.IdentityModel.Tokens.Jwt": "7.7.1"
         },
         "compile": {
@@ -3392,10 +3392,10 @@
         "stackexchange.redis.nuspec"
       ]
     },
-    "Stripe.net/51.1.0-beta.1": {
-      "sha512": "m67tIeTCwuL6FvnSR1FepJT9ib5bhvsiCw5b664SKgBgrWhmKyf9HXvvtG5kRQAM6amg46MNRp6Y1FZWDA2rzQ==",
+    "Stripe.net/52.5.0-alpha.5": {
+      "sha512": "3e41Dr+rjLhSaO0s+GxElhKTQwTjGS4xBThMAu6NdN9W1fIZeWSTBKQNNlI6Feu1Go+luKH8AsXHe5On0BxG4g==",
       "type": "package",
-      "path": "stripe.net/51.1.0-beta.1",
+      "path": "stripe.net/52.5.0-alpha.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3412,7 +3412,7 @@
         "lib/net9.0/Stripe.net.xml",
         "lib/netstandard2.0/Stripe.net.dll",
         "lib/netstandard2.0/Stripe.net.xml",
-        "stripe.net.51.1.0-beta.1.nupkg.sha512",
+        "stripe.net.52.5.0-alpha.5.nupkg.sha512",
         "stripe.net.nuspec"
       ]
     },
