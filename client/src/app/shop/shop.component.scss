@@ -1,0 +1,50 @@
+//.list-group-item{
+//  cursor: pointer;
+//  border: none;
+//  padding: 10px 20px;
+//  font-size: 1.1em;
+//
+//  &:focus{
+//    outline: none;
+//  }
+//
+//  &.active{
+//    border-radius: 10px;
+//    background-color: #7E25B8;
+//  }
+//
+//  &:not(.active):hover{
+//    color: #fff;
+//    background-color: #7E25B8;
+//    border-radius: 10px;
+//  }
+//}
+
+.list-group-item {
+  cursor: pointer;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.1em;
+  border-radius: 10px !important;
+
+  /* Default inactive state */
+  background-color: transparent !important; /* Removes background */
+  color: #6c757d !important;                /* Grey text color */
+  transition: all 0.05s ease-in-out;        /* Smooth color transition */
+
+  &:focus {
+    outline: none;
+  }
+
+  /* Active state (Purple with white text) */
+  &.active {
+    background-color: #7E25B8 !important;
+    color: #fff !important;
+  }
+
+  /* Hover state on inactive items (Turn purple on hover) */
+  &:not(.active):hover {
+    background-color: #AA5BDE !important;
+    color: #fff !important;
+  }
+}
